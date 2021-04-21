@@ -1,4 +1,3 @@
-import random
 import time
 
 times = 0
@@ -16,8 +15,8 @@ def slash(times, strength, stamina):
                print("Stamina ran out")
                print("Unable to continue")
                can_slash = False
-        else:
-            exit()
+       else:
+           exit()
 
 
        time.sleep(0.5)
