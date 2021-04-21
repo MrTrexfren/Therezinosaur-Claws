@@ -22,18 +22,18 @@ def slash(times, strength, stamina):
 
        time.sleep(0.5)
 
+    print("Process Finished Successfully!")
+    time.sleep(3)
+    exit()
+
 
 print('''
-
   _______ _                       _                                            
  |__   __| |                     (_)                                           
     | |  | |__   ___ _ __ ___ _____ _ __   ___  ___  __ _ _   _ _ __ _   _ ___ 
     | |  | '_ \ / _ \ '__/ _ \_  / | '_ \ / _ \/ __|/ _` | | | | '__| | | / __|
     | |  | | | |  __/ | |  __// /| | | | | (_) \__ \ (_| | |_| | |  | |_| \__ \\
     |_|  |_| |_|\___|_|  \___/___|_|_| |_|\___/|___/\__,_|\__,_|_|   \__,_|___/
-
-
-
     ''')
 times = int(input("Input Times You want to Attack: "))
 strength = int(input("Input Therezinosaur Strength: "))
