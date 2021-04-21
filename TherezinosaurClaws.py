@@ -16,6 +16,8 @@ def slash(times, strength, stamina):
                print("Stamina ran out")
                print("Unable to continue")
                can_slash = False
+        else:
+            exit()
 
 
        time.sleep(0.5)
