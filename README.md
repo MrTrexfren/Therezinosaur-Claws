@@ -1,2 +1,4 @@
-# Therezinosaur-Claws
-This is just a fun program that I made during my free time.
+# How To use
+1. Input the number of times that you will attack
+2. Input how strong you would like to slash
+3. Wait for the results
